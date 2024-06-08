@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "apollo-link-context": "^1.0.20",
+    "caniuse-lite": "^1.0.30001629",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "jwt-decode": "^4.0.0",
